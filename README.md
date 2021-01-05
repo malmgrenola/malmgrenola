@@ -12,7 +12,7 @@ I'm Ola Malmgren, based in a small town called Åkarp, in a small country called
 
 I can be found on a couple of social platforms for example:
 
-- on [my Spotify](https://open.spotify.com/user/1142657294/playlists) music collection, or;
+- on [my Spotify](https://open.spotify.com/user/1142657294/playlists), where you can find my music collection, or;
 - on [my Facebook](https://www.facebook.com/ola.malmgren), where you could reach me with messanger, or;
 - on [my Instagram](https://www.instagram.com/aviatorola/), where I from time to time publish and scroll, or;
 - on [my Twitter](https://twitter.com/OlaMamgren), or;
