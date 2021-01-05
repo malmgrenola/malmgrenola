@@ -9,3 +9,12 @@ I'm Ola Malmgren, based in a small town called Åkarp, in a small country called
 - 💬 Ask me about anything! If I dont know the subject I will read up on it.
 - 📫 If you would like to reach me, est is to use email here on github or a social media platform nearby.
 - ⚡ Fun fact: I'm an aviator and I hold a Private Pilot Licens ([PPL](https://en.wikipedia.org/wiki/Private_pilot_licence)) 🛩
+
+I can be found on a couple of social platforms for example:
+
+- on [my Spotify](https://open.spotify.com/user/1142657294/playlists) music collection, or;
+- on [my Facebook](https://www.facebook.com/ola.malmgren), where you could reach me with messanger, or;
+- on [my Instagram](https://www.instagram.com/aviatorola/), where I from time to time publish and scroll, or;
+- on [my Twitter](https://twitter.com/OlaMamgren), or;
+- I can also be found on [imdb.com](https://www.imdb.com/) as [Ola Malmgren](https://www.imdb.com/name/nm1529231/) & [Ola Malmgreen](https://www.imdb.com/name/nm1545213/) since I've done a couple of years Television work as an engineer, or;
+- on [my linkedin](https://www.linkedin.com/in/olamalmgren/) profile.
