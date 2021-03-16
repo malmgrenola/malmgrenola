@@ -18,3 +18,6 @@ I can be found on a couple of social platforms for example:
 - on [my Twitter](https://twitter.com/OlaMamgren), or;
 - I can also be found on [imdb.com](https://www.imdb.com/) as [Ola Malmgren](https://www.imdb.com/name/nm1529231/) & [Ola Malmgreen](https://www.imdb.com/name/nm1545213/) since I've done Television work a couple of years (about 25 years) as an engineer in charge and vision control, or;
 - on [my linkedin](https://www.linkedin.com/in/olamalmgren/) profile.
+
+I have completed [Cursea's Course](https://www.coursera.org/learn/remote-team-management) whith 100% grade.
+It's possible to view the [Course Certificate here](/assets/Coursera_82DAMNQ7PHEK.pdf)
