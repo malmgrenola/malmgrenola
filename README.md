@@ -2,7 +2,7 @@
 
 I'm Ola Malmgren, based in a small town called Åkarp, in a small country called Sweden in a half small region called Europe, on a tiny, tiny planet called Earth in the "solar" system located within the Milky way Galaxy.
 
-- 🔭 I’m currently working at [Boffins Techologies](https://boffins.se/) as founder, partner and ceo, where we among many things develop [nxtedition](http://nxtedition.com/)
+- 🔭 I’m currently working at [Boffins Technologies](https://boffins.se/) as founder, partner and ceo, where we among many things develop [nxtedition](http://nxtedition.com/)
 - 🌱 I’m constantly learning **life** (I have 5 kids) but currently also HTML, CSS, Javascript and various backend technologies and frameworks, for example: react, next.js, gatsby, docker, python, django. Setting up and deploy services on for example Amazon Web Services (aws), Google Cloud, Vercel, and many more is something I do quite a bit.
 - 🤔 I’m looking for [the answer on the life, the universe & everything](https://en.wikipedia.org/wiki/Douglas_Adams).
 - 💬 Ask me about anything! If I dont know the subject I will read up on it. 
