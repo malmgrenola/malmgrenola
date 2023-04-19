@@ -6,7 +6,7 @@ I'm Ola Malmgren, based in a small town called Åkarp, in a small country called
 - 🌱 I’m constantly learning **life** (I have 5 kids) but currently also HTML, CSS, Javascript and various backend and frontend technologies and frameworks, for example: react, next.js, gatsby, docker, python, Django. Setting up and deploying services on for example Amazon Web Services (AWS), Google Cloud, Vercel, and many more is something I do quite a bit.
 - 🤔 I’m looking for the [Answer to the Ultimate Question of Life, The Universe, and Everything](https://en.wikipedia.org/wiki/Douglas_Adams).
 - 📫 If you would like to reach me, the best is to use email here on GitHub or a social media platform nearby.
-- ⚡ Fun fact: I'm an aviator and I hold a Private Pilot license ([PPL](https://en.wikipedia.org/wiki/Private_pilot_licence)](https://en.wikipedia.org/wiki/Private_pilot_licence)) 🛩
+- ⚡ Fun fact: I'm an aviator and I hold a Private Pilot license ([PPL](https://en.wikipedia.org/wiki/Private_pilot_licence)) 🛩
 
 I can be found on a couple of social platforms for example:
 
